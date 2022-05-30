@@ -1,3 +1,2 @@
 Pim gostoso
 DELETE
-DROP
