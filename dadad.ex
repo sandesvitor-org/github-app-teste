@@ -5,5 +5,4 @@ da
 dad
 daDAD
 daDFA
-awd
 da
