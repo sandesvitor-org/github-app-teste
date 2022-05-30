@@ -1,4 +1,3 @@
-DELETE
 dad
 dad
 dada
