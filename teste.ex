@@ -1,2 +1,1 @@
-DROP
-ALTER
+dad
