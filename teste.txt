@@ -1,7 +1,4 @@
 Pim gostoso
 dad
-ALTER
-dad
-ds
-dada
-dad
+DELETE
+da
