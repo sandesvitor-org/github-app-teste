@@ -15,6 +15,5 @@ da
 da
 da
 da
-DELETE
 dads
 dad
